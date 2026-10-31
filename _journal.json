@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790936272775,
+      "tag": "0000_real_jack_flag",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791101610565,
+      "tag": "0001_arabic_default_locale",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791103125329,
+      "tag": "0002_image_runtime",
+      "breakpoints": true
+    }
+  ]
+}
